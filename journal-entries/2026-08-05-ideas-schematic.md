@@ -1,6 +1,6 @@
 # Ideas & Schematic
 
-📅 **2026-08-05** · 🕐 **21:28** · ⏱️ **3h logged**  
+📅 **2026-08-05** · 🕐 **21:28** · ⏱️ **2h logged**  
 
 ---
 ![Screenshot 2026-08-04 at 9.46.22 PM.png](../images/2026-08-05-screenshot-2026-08-04-at-9.46.22-pm.png)
