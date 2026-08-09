@@ -1,1 +1,66 @@
-**/.history/
+# ==========================================
+# KiCad Temporary & Lock Files
+# ==========================================
+*.lck
+*.lock
+*~
+*.bak
+*.orig
+*..kicad_sch
+*..kicad_pcb
+
+# ==========================================
+# Auto-Save & Backup Folders
+# ==========================================
+/-bak/
+*.kicad_prl
+
+# ==========================================
+# ERC / DRC Report Files
+# ==========================================
+*.rpt
+*.drc
+*.erc
+
+# ==========================================
+# Cache & Rescue Files
+# ==========================================
+*-cache.lib
+*-rescue.lib
+*.fp-lib-table.bak
+*.sym-lib-table.bak
+
+# ==========================================
+# Freerouting & Autorouter Intermediates
+# ==========================================
+# Uncomment these if you do NOT want to track your autorouter files:
+# *.dsn
+# *.ses
+# *.rules
+
+# ==========================================
+# Manufacturing & Production Outputs
+# ==========================================
+# Ignores gerbers, drill files, and exported CAD outputs
+/gerber/
+/gerbers/
+/plots/
+/fabrication/
+/exports/
+*.gbr
+*.drl
+*.pdf
+*.svg
+
+# ==========================================
+# OS & IDE Noise
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.history/
+.vscode/
