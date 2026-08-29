@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "../Production/",
       "specctra_dsn": "PlaiKeyboard.dsn",
       "vrml": ""
     },
@@ -672,7 +672,7 @@
         "uuid": "54e3b04e-75b1-4586-8d25-89732a506c1a"
       }
     ],
-    "used_designators": "U1,S1-4,D1-85,C1-2,#PWR1-11,J_BAT1,#FLG1-2,SW1-86",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
