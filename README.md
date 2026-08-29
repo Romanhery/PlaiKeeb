@@ -15,7 +15,7 @@ Plai Keeb is a custom keyboard 75 % exploded keyboard with a rotary encoder and 
    
    
 <h2>CAD:</h2>
-   <p>Everything is held together by using 6 M3 Bolts and heat inserts.</p>
+   <p>Everything is held together by using 6 M3 Bolts and heated inserts.</p>
    <p>It has 2 printed pieces and a plate to cover the electronics and house them.</p>
    <p>Made in Fusion 360</p>
 <p align="center">
@@ -25,7 +25,7 @@ Plai Keeb is a custom keyboard 75 % exploded keyboard with a rotary encoder and 
    <p>Made with <a href="https://github.com/KMKfw/kmk_firmware">KMK</a> firmware</p> 
    <h3>Features</h3>
    <li>Volume control if you twist the rotary encoder and if you press the encoder to mute</li>
-   <li>They have macros for any shorcut you want!</li>
+   <li>It has macros for any shorcut you want!</li>
    <p align="center">
   <img src="https://github.com/Romanhery/PlaiKeeb/blob/main/images/Readme_images/Render.png" width="65%" />
    </p>
@@ -43,9 +43,9 @@ Plai Keeb is a custom keyboard 75 % exploded keyboard with a rotary encoder and 
     <li>1x Case (2 printed parts)</li>
    <a href="https://docs.google.com/spreadsheets/d/1uIeMTGPOrdSAiFDxR4G393WpXhlTQVRrd_AwqsaPwl4/edit?usp=sharing">BOM HERE WITH LINKS</a>
 </ul>
-## Acknowledgements
+<h2>Acknowledgements</h2> 
 
-* [Orpheuspad](https://github.com/hackclub/hackpad/tree/main/cad/orpheuspad)
-* [Keybie](https://github.com/Mirai-09/Keybie-Hackpads)
+* [Keeb](https://github.com/hackclub/hackpad/tree/main/cad/orpheuspad)
+* [Void Pointer](https://github.com/Mirai-09/Keybie-Hackpads)
 ## Authors
 - [@Romanhery](https://github.com/Romanhery)
